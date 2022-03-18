@@ -1,0 +1,2 @@
+epoch: train_acc1 train_acc2 test_acc1 test_acc2 pure_ratio1 pure_ratio2
+0: 0 0 8.914262820512821 11.348157051282051 0 0
